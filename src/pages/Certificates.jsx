@@ -10,10 +10,10 @@ const certificates = [
     link: 'https://sheryians.com/certificates/verify/be69695a-c6a1-4b40-a412-9dfdf67ddcd9',
   },
   {
-    title: 'JavaScript Algorithms and Data Structures',
-    issuer: 'freeCodeCamp',
+    title: 'Mern FullStack Web Development',
+    issuer: 'Sheryians Coding School',
     date: 'March 2023',
-    link: 'https://www.freecodecamp.org/certificate/js-algo',
+    link: 'https://sheryians.com/certificates/verify/39dd7465-fbed-4cd0-bf90-104bc7ebdc02',
   },
   {
     title: 'Frontend Web Development',
