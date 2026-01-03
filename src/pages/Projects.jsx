@@ -14,7 +14,7 @@ const Projects = () => {
     {
       title: "Portfolio Website",
       desc: "Personal portfolio built with React and Tailwind CSS, featuring dark mode and responsive design.",
-      link: "#",
+      link: "https://github.com/shyamsnp1804/Recipe-App-Veggie-Bite",
     },
     {
       title: "Task Manager App",
