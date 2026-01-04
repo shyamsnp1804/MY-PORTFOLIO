@@ -17,9 +17,9 @@ const Projects = () => {
       link: "#",
     },
     {
-      title: "Task Manager App",
-      desc: "A full-stack MERN application to manage daily tasks with JWT auth and CRUD operations.",
-      link: "#",
+      title: "Spotify Clone",
+      desc: "A full-stack MERN application.",
+      link: "https://github.com/shyamsnp1804/spotify-clone",
     },
     {
       title: "Recipe Finder",
