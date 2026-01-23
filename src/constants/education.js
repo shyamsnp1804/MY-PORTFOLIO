@@ -9,7 +9,7 @@ import mdclogo from '../assets/education_logo/MD Carmel logo.png';
       img: sirtlogo,
       school: "SIRT BHOPAL",
       date: "Sept 2023 - June 2027",
-      grade: "8.1 CGPA",
+      grade: "7.75 CGPA",
       desc: "I am currently pursuing my Bachelor's degree (B.TECH) in Computer Science from SIRT, Bhopal. At SIRT, I gained a strong foundation in programming, software development, and computer science principles. I have studied courses such as Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Web Development, and Software Engineering. I actively participates in various workshops and technical events, which enhanced my skills and knowledge..",
       degree: "Bachelor Of Technology - Computer Science Engineering",
     },
