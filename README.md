@@ -1,12 +1,43 @@
-# React + Vite
+# 🌐 My Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built with **React + Vite + Tailwind CSS** to showcase my projects, skills, and experience as a Frontend Developer.
 
-Currently, two official plugins are available:
+🚀 **Live Demo:**  
+👉 https://my-portfolio-git-main-shyam-narayan-pandey-s-projects.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 About The Project
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This portfolio website represents my journey as a developer.  
+It highlights my technical skills, featured projects, and provides a way to connect with me.
+
+The goal of this project was to:
+
+- Build a fast and optimized React application using Vite
+- Create a clean and responsive UI
+- Showcase projects in a professional way
+- Practice modern frontend architecture
+
+---
+
+## ✨ Features
+
+- ⚡ Fast performance with Vite
+- 🎨 Clean & modern UI
+- 📱 Fully responsive (Mobile + Tablet + Desktop)
+- 🧭 Smooth navigation
+- 🔗 Project showcase with external links
+- 📬 Contact section
+
+---
+
+## 🛠 Tech Stack
+
+| Category | Technology |
+|----------|------------|
+| Frontend | React |
+| Bundler  | Vite |
+| Styling  | Tailwind CSS |
+| Routing  | React Router |
+| Deployment | Vercel |
