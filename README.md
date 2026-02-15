@@ -3,7 +3,7 @@
 A modern, responsive personal portfolio website built with **React + Vite + Tailwind CSS** to showcase my projects, skills, and experience as a Frontend Developer.
 
 🚀 **Live Demo:**  
-👉 https://my-portfolio-git-main-shyam-narayan-pandey-s-projects.vercel.app/
+👉 https://my-portfolio-gamma-one-60.vercel.app/
 
 ---
 
