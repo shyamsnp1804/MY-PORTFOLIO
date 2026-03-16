@@ -1,5 +1,5 @@
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
-import profileImg from "../assets/photosnp.jpg";
+import profileImg from "../assets/photosnp.jpeg";
 import { motion } from "framer-motion";
 import { Typewriter } from "react-simple-typewriter";
 
