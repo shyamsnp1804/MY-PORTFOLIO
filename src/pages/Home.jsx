@@ -150,7 +150,7 @@ const Home = () => {
         />
 
         {/* Profile Image */}
-        <div className="w-72 h-72 rounded-full border-[10px] border-yellow-400 bg-white overflow-hidden shadow-[0_0_30px_#e879f9] relative z-10">
+        <div className="w-96 max-h-96 rounded-full border-[10px] border-yellow-400 bg-white overflow-hidden shadow-[0_0_30px_#e879f9] relative z-10">
           <img src={profileImg} alt="Shyam" className="w-full h-full object-cover" />
         </div>
       </motion.div>
