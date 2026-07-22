@@ -108,14 +108,14 @@ const Home = () => {
             <FaGithub />
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://linkedin.com/ersnpandey"
             target="_blank"
             className="hover:text-blue-500"
           >
             <FaLinkedin />
           </a>
           <a
-            href="https://twitter.com"
+            href="https://twitter.com/shyam__snp"
             target="_blank"
             className="hover:text-cyan-400"
           >
